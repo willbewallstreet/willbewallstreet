@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| `bear` ![bear][bear] | `solarized-dark` ![solarized-dark][solarized-dark] | `solarized-light` ![solarized-light][solarized-light] |
+
 
 <h2 align="center"> 🎨 Stack <br> </p>
  
