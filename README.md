@@ -1,6 +1,6 @@
 ## Hi there 👋
-![사용자명's GitHub stats](<https://github-readme-stats.vercel.app/api?username=willbewallstreet> 아이디) 
-[출처] 깃허브 완벽 가이드: 깃허브 기초부터 깃과 차이점, 사용법, 프로필 꾸미기까지!|작성자 스파르타클럽
+![사용자명's GitHub stats](<https://github-readme-stats.vercel.app/api?username=willbewallstreet> willbewallstreet) 
+
 
 
 <h2 align="center"> 🎨 Stack <br> </p>
