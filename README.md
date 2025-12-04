@@ -1,5 +1,5 @@
 ## Hi there 👋
-![경서's GitHub stats](https://github-readme-stats.vercel.app/api?username=①willbewallstreet&show_icons=true&theme=②스타일)
+![경서's GitHub stats](https://github-readme-stats.vercel.app/api?username=①willbewallstreet&show_icons=true&theme=②dark)
 
 
 
